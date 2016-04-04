@@ -1,0 +1,14 @@
+git init   (initialize git)
+git status
+git add hello.php
+git commit -m "Init project, simple index"
+git clone https://github.com/J2Program/Android-NFC.git //git location
+
+add some file sample.php
+git status
+git add sample.php
+git commit -m "adding files now"
+
+
+git push
+
