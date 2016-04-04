@@ -16,3 +16,5 @@ git push
 
 git pull
 
+git -A //use if change the code or somethink
+
